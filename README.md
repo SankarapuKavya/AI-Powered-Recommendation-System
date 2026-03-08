@@ -30,50 +30,7 @@ A Django-based web application that provides personalized restaurant and dish re
 
 ---
 
-AI_Restaurant_Recommender/
-├── config/                  
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── media/                   
-│   ├── dish_images/
-│   └── restaurant_images/
-│
-├── restaurants/             
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── api_views.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── recommendation.py
-│   ├── serializers.py
-│   ├── tests.py
-│   ├── urls.py
-│   ├── utils.py
-│   └── views.py
-│
-├── static/                  
-│   └── ...
-│
-├── templates/               
-│   ├── base.html
-│   ├── cart.html
-│   ├── checkout.html
-│   ├── dashboard.html
-│   ├── dish_detail.html
-│   ├── home.html
-│   ├── login.html
-│   ├── paytm_redirect.html
-│   ├── restaurant_detail.html
-│   └── upi_redirect.html
-│
-├── db.sqlite3               
-├── manage.py                
-├── requirements.txt         
-└── README.md                
+``` text AI_Restaurant_Recommender/ ├── config/ │   ├── init.py │   ├── asgi.py │   ├── settings.py │   ├── urls.py │   └── wsgi.py ├── media/ │   ├── dish_images/ │   └── restaurant_images/ ├── restaurants/ │   ├── init.py │   ├── admin.py │   ├── api_views.py │   ├── apps.py │   ├── models.py │   ├── recommendation.py │   ├── serializers.py │   ├── tests.py │   ├── urls.py │   ├── utils.py │   └── views.py ├── static/ ├── templates/ │   ├── base.html │   ├── cart.html │   ├── checkout.html │   ├── dashboard.html │   ├── dish_detail.html │   ├── home.html │   ├── login.html │   ├── paytm_redirect.html │   ├── restaurant_detail.html │   └── upi_redirect.html ├── db.sqlite3 ├── manage.py ├── README.md └── requirements.txt ```               
 
 ## ⚙️ Setup Instructions
 
