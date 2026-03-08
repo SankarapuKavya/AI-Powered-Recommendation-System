@@ -29,6 +29,7 @@ A Django-based web application that provides personalized restaurant and dish re
 ## 📁 Project Structure
 
 ---
+```bash
 
 AI_Restaurant_Recommender/
 ├── config/
