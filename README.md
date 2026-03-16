@@ -30,6 +30,7 @@ A Django-based web application that provides personalized restaurant and dish re
 
 ---
 
+ ```bash
 AI_Restaurant_Recommender/
 ├── config/                  
 │   ├── __init__.py
