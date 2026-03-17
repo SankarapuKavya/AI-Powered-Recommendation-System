@@ -81,7 +81,7 @@ Smart_Restaurant_Ordering_System_with_AI_Recommendation/
 1. Clone the repo:
    ```bash
    git clone https://github.com/<SankarapuKavya>/Smart-Restaurant-Ordering-System-with-AI- Recommendation.git
-   cd ai_restaurant_recommender
+   cd Smart-Restaurant-Ordering-System-with-AI- Recommendation
 
 2. Creating a virtual environment:
     ```bash
