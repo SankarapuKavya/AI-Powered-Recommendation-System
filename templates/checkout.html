@@ -8,11 +8,11 @@
 
 {% for item in cart_items %}
 
-<p>{{ item.dish.name }} - ₹{{ item.total_price }}</p>
+<p>{{ item.dish.name }} - ₹{{ item.total_price|floatformat:0 }}</p>
 
 {% endfor %}
 
-<h3>Total: ₹{{ total }}</h3>
+<h3>Total: ₹{{ total|floatformat:0 }}</h3>
 
 <hr>
 

@@ -10,7 +10,7 @@
 
 <h3>{{ item.dish.name }}</h3>
 
-<p>Price: ₹{{ item.dish.final_price }}</p>
+<p>Price: ₹{{ item.dish.final_price|floatformat:0 }}</p>
 
 <div>
 
